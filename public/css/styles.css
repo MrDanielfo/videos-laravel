@@ -1,0 +1,40 @@
+.video-image-mask {
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+}
+
+.video-image-mask .video-image {
+    width: 110%; 
+}
+
+h4.video-title {
+    font-weight: bold;
+    font-size: 20px; 
+}
+
+h4.video-title a {
+    text-decoration: none;
+    color: #444;
+}
+
+form.form-busqueda {
+    padding-top: 4em;
+}
+
+input.btn-filtrado {
+    margin-top: .5em;
+}
+
+div.data {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+a.canal-usuario {
+    text-decoration: none;
+    color: crimson;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
